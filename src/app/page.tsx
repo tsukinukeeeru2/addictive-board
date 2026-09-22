@@ -18,6 +18,15 @@ export default async function HomePage() {
 
   return (
     <div className="flex flex-col gap-8">
+      <div className="pt-1">
+        <h1 className="text-2xl font-bold tracking-tight text-neutral-50">
+          🔥 Addictive Board
+        </h1>
+        <p className="mt-1.5 text-sm text-neutral-400">
+          笑現の自由 — 気軽に、盛り上がる掲示板。
+        </p>
+      </div>
+
       <Spotlight />
 
       <section>

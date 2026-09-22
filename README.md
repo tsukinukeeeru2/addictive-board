@@ -1,4 +1,8 @@
-# Addictive Board
+# 🔥 Addictive Board
+
+> 笑現の自由 — 気軽に、盛り上がる掲示板。
+
+**🔗 Live Demo: [https://addictive-board.vercel.app](https://addictive-board.vercel.app)**
 
 中毒性のある次世代掲示板アプリ。5ch的な匿名スレッド、Reddit的な板/投票、リアルタイム性、ゲーミフィケーションを組み合わせた個人開発の長期プロジェクト。
 
